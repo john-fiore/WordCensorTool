@@ -4,16 +4,16 @@
 This is not meant for professional use. It's merely a sandbox meant for you to mess around with.
 
 ## How to run it
-**Please Note: Python is required for all of these methods. You can install it [here](https://www.python.org/downloads/).**
+**Please Note:** Python is required for all of these methods. You can install it [here](https://www.python.org/downloads/).
+
+Also, as of 01/08/2025, this program **only works on Windows**. In the future, if wanted, I'll make it compatible with MacOS and Linux.
 
 ### Manual Method
 1. Download `censor.py`
 2. Open your PC's terminal and change your directory to where you downloaded the Python file.
-3. Run the file like so:\
-   a. If you're on Windows, enter `python censor.py`.\
-   b. If you're on MacOS or Linux, enter `python3 censor.py`.
+3. Run the file like by entering `python censor.py`.
 
-### Source Code Method (Windows users only)
+### Source Code Method
 1. Download the source code.
 2. Extract the ZIP file.
 3. Run `launch.bat`.
